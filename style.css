@@ -5,6 +5,15 @@
   color: #6c6b6b;
 }
 
+body {
+  font-family: "Arial","Helvetica","sana-serif";
+}
+
+a {
+  text-decoration: none;
+  color: #38b48b;
+}
+
 header {
   width: 100%;
   text-align: center;
